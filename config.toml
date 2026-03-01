@@ -1,0 +1,4 @@
+baseURL = "https://devtimmofto.github.io/blog"
+title = "Your Blog"
+theme = "PaperMod"
+
