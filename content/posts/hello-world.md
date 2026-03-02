@@ -1,6 +1,6 @@
 ---
 title: "Hello World — The Blog is Live"
-date: 2026-03-02
+date: 2026-03-01
 draft: false
 tags: ["meta", "hugo", "linux"]
 ---
