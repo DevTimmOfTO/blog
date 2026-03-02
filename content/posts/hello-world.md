@@ -21,6 +21,6 @@ with an RSS feed you can actually subscribe to.
 
 If you're reading this — welcome. More posts coming soon.
 
-![Alt text](/blog/images/Profil_pic.png)
+![Alt text](/static/images/Profíl_pic.png)
 
 
