@@ -21,6 +21,6 @@ with an RSS feed you can actually subscribe to.
 
 If you're reading this — welcome. More posts coming soon.
 
-![Alt text](/static/images/Profíl_pic.png)
+![Alt text](https://github.com/DevTimmOfTO/blog/blob/5d48f1df4a50e6236ab02ffb9219789c70aed5bc/static/images/Profi%CC%81l_pic.png)
 
 
