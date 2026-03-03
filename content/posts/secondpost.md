@@ -1,5 +1,5 @@
 ---
-title: Hello World — The Blog is Live
+title: My 2nd Post
 date: 2026-03-02
 draft: false
 tags: ["dev", "school-life"]
